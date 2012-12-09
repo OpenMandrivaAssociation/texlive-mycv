@@ -6,7 +6,7 @@
 # catalog-version 1.5.6
 Name:		texlive-mycv
 Version:	1.5.6
-Release:	2
+Release:	1
 Summary:	A list-driven CV class, allowing TikZ decorations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mycv
@@ -71,3 +71,15 @@ provided.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar scripts tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Aug 08 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.5.6-1
++ Revision: 812637
+- Update to latest release.
+
+* Mon Jun 11 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.5.4-1
++ Revision: 804949
+- Import texlive-mycv
+- Import texlive-mycv
+
