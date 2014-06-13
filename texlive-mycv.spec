@@ -6,7 +6,7 @@
 # catalog-version 1.5.6
 Name:		texlive-mycv
 Version:	1.5.6
-Release:	5
+Release:	6
 Summary:	A list-driven CV class, allowing TikZ decorations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mycv
