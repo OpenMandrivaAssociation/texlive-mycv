@@ -1,6 +1,6 @@
 Name:		texlive-mycv
 Version:	26807
-Release:	1
+Release:	2
 Summary:	A list-driven CV class, allowing TikZ decorations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mycv
