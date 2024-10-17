@@ -3,7 +3,7 @@ Version:	26807
 Release:	2
 Summary:	A list-driven CV class, allowing TikZ decorations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mycv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mycv
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mycv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mycv.doc.r%{version}.tar.xz
